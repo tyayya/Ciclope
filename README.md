@@ -3,7 +3,7 @@
 
 Ciclope is a tool created to help the blind in their daily live using computer vision and speech recognition to interact with the user through visual and verbal commands. Ciclope helps the user recognizing objects around him and reading texts.
 
-![Menu](img1/fondo.png)
+![Menu](imgmenu.png)
 
 
 ## Description
@@ -15,7 +15,7 @@ The Ciclope project consists of a graphical interface developed in Tkinter that 
 - **Lingua**: Captures camera images and uses OCR (Optical Character Recognition) to extract text, which is then read aloud using the Windows Speech API.
 
 <sub>Lingua still needs to improve it's capacity to detect text. For now, the given text must be in Spanish and it should be a simple black font with a white background, just as when you write something in your phone notes. Here an example.</sub>
-![Lingua screen](img2/img2.png)
+![Lingua screen](imglingua.png)
 
 
 ## Installation
